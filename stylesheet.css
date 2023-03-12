@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(3, 0, 27);
+    position: cover;
+    margin: auto;
+    padding: 30px;
+  }
+
+ul > li {
+    display: inline-block;
+    text-align: center;
+    /* You can also add some margins here to make it look prettier */
+}
+.card .cardgroup {
+    background-color: rgb(37, 33, 33);
+}
